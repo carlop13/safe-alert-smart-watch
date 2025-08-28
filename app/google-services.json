@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "628859876637",
+    "firebase_url": "https://bdgera-6976b-default-rtdb.firebaseio.com",
+    "project_id": "bdgera-6976b",
+    "storage_bucket": "bdgera-6976b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628859876637:android:9332dad10567873e62ddf4",
+        "android_client_info": {
+          "package_name": "com.example.safealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiGURWoR5J64d-zCOVEXC7Ls1VT975yoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
