@@ -21,3 +21,8 @@ Aplicación complementaria para smartwatch desarrollada en Kotlin con Android St
 - Ingresa el código generado en la app móvil.
 - Visualiza tus datos y mensaje configurado.
 - Presiona el botón de emergencia para enviar tu ubicación y mensaje a tus contactos por WhatsApp.
+
+## 👨‍💻 Autores
+Desarrollado por: 
+- Carlos Guadalupe López Trejo
+- David Guillermo Santiago
